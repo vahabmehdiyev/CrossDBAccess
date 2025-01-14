@@ -1,0 +1,15 @@
+# IDE-specific files
+.idea/
+*.iml
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# pytest cache
+.pytest_cache/
+
